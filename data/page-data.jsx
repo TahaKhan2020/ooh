@@ -6,9 +6,9 @@ export const personalData = {
 		"Skills: Front-End Developer || Software Quality Assurance (Automation Testing) || Artificial Intelligence (NLP Engines,M-L Algos)",
 	],
 	contactLinks: [
-		"mailto:emailto:time2code@gmail.com",
+		"mailto:emailto:tahashareef98@gmail.com",
 		"https://twitter.com/time_tocode",
-		"https://linkedin.com/aliciarodriguezLi",
+		"https://www.linkedin.com/in/taha-khan-41689b19a/",
 		"https://medium.com/@time2code.ali",
 	],
 };
@@ -41,25 +41,25 @@ export const skills = {
 };
 
 export const professionalData = {
-	title: "Professional Experience",
+	title: "Projects Description",
 	experiences: [
 		{
-			role: "Data Scientist, Acme Inc. (2021-Present)",
+			role: "Front-End Development( Expense Tracking App), React JS, Material UI,Node JS",
 			description:
-				"Design and implement machine learning models to analyze large datasets and drive business decisions. Collaborate with cross-functional teams to develop and launch new products and features. Provide technical guidance and mentorship to junior data scientists. Conduct regular presentations to stakeholders on the findings and insights generated from data analysis.",
+				"Expense tracker developed on React JS, Material UI, HTML, and JS. Capable to evaluate any kind of expenses and provide an efficient result",
 			current: true,
 		},
 
 		{
-			role: "Machine Learning Engineer, XYZ Corp. (2019-2021)",
+			role: "Machine Learning , Chatbot (Python,Sklearn and NLP Engine,Tkinterface)",
 			description:
-				"Designed and implemented advanced machine learning algorithms to improve predictive accuracy and performance. Built and maintained scalable machine learning infrastructure using cloud computing platforms. Conducted data exploratory analysis to identify potential use cases and opportunities. Participated in regular code reviews to maintain high quality standards.",
+				"Designed and implemented advanced machine learning algorithms to extract data from .txt file and provide it on the main screen. By training on NLP engine bot became more capable to predict the whole answer with a single word. Besides TKinterface has used to developed the whole interface ",
 			current: false,
 		},
 		{
-			role: "Machine Learning Engineer, ABX Corp. (2020-2021)",
+			role: "Front-End Development(Resume-app), Next.JS ,Tailwind CSS,Node JS",
 			description:
-				"Designed and implemented advanced machine learning algorithms to improve predictive accuracy and performance. Built and maintained scalable machine learning infrastructure using cloud computing platforms. Conducted data exploratory analysis to identify potential use cases and opportunities. Participated in regular code reviews to maintain high quality standards.",
+				"Designed and implemented advanced styling with the help of Tailwind CSS and next13.JS. Deployed on vercel succesfully apart from that the combination of next13.JS and tailwindCSS is a advanced and easier to deploy",
 			current: false,
 		},
 	],
