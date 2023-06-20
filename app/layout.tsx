@@ -1,7 +1,7 @@
 import './global.css'
 
 import Sidebar from './component/sidebar'
-import {personalData} from '../data/page-data'
+import {personalData} from '../app/data/page-data'
 
 
 

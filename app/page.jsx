@@ -1,6 +1,6 @@
 import React from 'react'
 import AboutMe from './component/about-me'
-import {aboutMe,skills,professionalData, AcademicData,Certification,projects,activities,languages} from '../data/page-data'
+import {aboutMe,skills,professionalData, AcademicData,Certification,projects,activities,languages} from '../app/data/page-data'
 import ProfessionaExperience from './component/professiona-experience'
 import Academic from './component/academic'
 import Certifications from './component/Certifications'
