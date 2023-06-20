@@ -5,9 +5,9 @@ import {Envelope,Twitter,Linkedin,Medium} from './icons'
 const Sidebar = ({data}) => {
   const {name,role,education,contactLinks} = data
   return (
-    <div className='bg-black flex flex-col sm:h-screen content-between w-full h-auto sm:justify-around sm:w-1/3 sm:fixed'>
+    <div className='bg-Cblue bg-opacity-100 hover:bg-opacity-90 flex flex-col sm:h-screen content-between w-full h-auto sm:justify-around sm:w-1/3 sm:fixed'>
       <div className='text-white flex flex-col p-10 items-center'>
-        <Image priority width={200} height={200} className='rounded-full h-full mb-6 mt-4' src = '/images/taha.jpg' alt = 'taha.jpg' aria-label = 'taha.jpg' />
+        <Image priority width={200} height={200} className='rounded-full h-full mb-6 mt-4' src = '/images/vp.jfif' alt = 'vp' aria-label = 'vp.jfif' />
         <h1 className='mb-2'>{data.name}</h1>
         <h2 className='mb-6'>{data.role}</h2>
         <p className='mb-2'>{data.education[0]}</p>
