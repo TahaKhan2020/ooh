@@ -1,6 +1,6 @@
 export const personalData = {
 	name: "Mahnoor Khan",
-	role: "Software Engineer",
+	role: "BioMedical Engineer",
 	education: [
 		"Bachelors in BioMedical Engineering from, University of Sir Syed Eng & Tech(2020-2024)",
 		"Biomedical Engineer @SSUET | Content Director @ The Engineers | IEEE Student member | Overseas member @ Aspire Pakistan",
